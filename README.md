@@ -2,7 +2,10 @@
 
 ###
 
-<h3 align="left">Soy Desarrolladora Web Full Stack Junior, comprometida con construir aplicaciones web completas y eficientes, combinando creatividad en el frontend con lógica en el backend.</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandacrespo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandacrespo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -54,7 +57,7 @@
 
 ###
 
-<h4 align="left">Otras redes sociales profesionales:</h4>
+<h4 align="left">Mis redes sociales profesionales:</h4>
 
 ###
 
