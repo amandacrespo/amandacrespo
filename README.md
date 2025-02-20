@@ -1,4 +1,4 @@
-## ¡Hola! Soy Amanda Crespo Luis 👩‍💻
+## ¡Hola! Soy Amanda 👩‍💻
 
 ###
 
