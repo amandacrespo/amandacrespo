@@ -1,8 +1,8 @@
-<h2 align="left">Hola 👋! Soy Amanda Crespo Luis</h2>
+<h2 align="left">¡Hola! Soy Amanda Crespo Luis</h2>
 
 ###
 
-<h3 align="left">Soy desarrolladora web fullstack junior</h3>
+<h3 align="left">Soy Desarrolladora Web Full Stack Junior, comprometida con construir aplicaciones web completas y eficientes, combinando creatividad en el frontend con lógica en el backend.</h3>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">Herramientas con las que he trabajado y desarrollado proyectos:</h4>
+<h3 align="left">Herramientas con las que he trabajado y desarrollado proyectos:</h3>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h4 align="left">Conéctame a través de mis redes sociales profesionales:</h4>
+<h4 align="left">Otras redes sociales profesionales:</h4>
 
 ###
 
