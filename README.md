@@ -39,10 +39,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Amanda%20Crespo%20Luis&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
----
-
-### 🎓 ¿Te gustaría ver mi TFG del Grado en Desarrollo de Aplicaciones Web?
-
-#### Proyecto: [Librerarte](https://amandacrespo.arteyweb.es)
-
