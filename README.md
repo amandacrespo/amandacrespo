@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandacrespo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=buefy&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-### Herramientas con las que he trabajado y desarrollado proyectos:
+### Herramientas con las que he desarrollado proyectos:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
 </div>
 
-### Otras redes sociales profesionales:
+### Mis redes sociales profesionales:
 
 <div align="left">
   <a href="https://es.linkedin.com/in/amanda-crespo-luis-956856253" target="_blank">
